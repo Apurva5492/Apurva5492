@@ -1,245 +1,120 @@
-# 💙 Apurva Pandya
+# 👋 Hi, I'm Apurva Pandya
 
-<div align="center">
+### 💻 Computer Science Engineering Student | Developer | Problem Solver
 
-**Full-Stack Developer** | **React Enthusiast** | **Problem Solver**
+I'm a **Computer Science Engineering student** passionate about building software, solving problems, and exploring modern technologies.
 
-```
-Building scalable web applications that make a real-world impact
-```
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apurva-pandya-23aa3233b?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Apurva5492)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:apurvapandya@example.com)
-
-</div>
-
----
-
-## 🎓 About Me
-
-I'm a **B.Tech Computer Science Engineering** student at **VIT Bhopal University** (2024–2028) passionate about crafting elegant, user-friendly web applications. I love turning ideas into reality through clean code, modern frameworks, and thoughtful design.
-
-- 📍 Based in Mumbai, India  
-- 🎯 Pursuing SDE & Full-Stack Internship Opportunities  
-- 📊 Current CGPA: **8.53**  
-- 🚀 Currently mastering **React.js & Advanced State Management**
+Currently focused on **Web Development, DSA, AI/ML, and building scalable applications.**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🎨 Frontend Mastery
-```
-React.js  →  Redux Toolkit  →  Tailwind CSS  →  Modern UX
-```
-
-| Technology | Proficiency | Experience |
-|-----------|-----------|-----------|
-| **React.js** | ⭐⭐⭐⭐⭐ | Component architecture, hooks, lifecycle |
-| **Redux Toolkit** | ⭐⭐⭐⭐⭐ | State management, async thunks, slices |
-| **Tailwind CSS** | ⭐⭐⭐⭐⭐ | Utility-first design, responsive layouts |
-| **JavaScript (ES6+)** | ⭐⭐⭐⭐⭐ | Modern syntax, async/await, promises |
-| **HTML5 & CSS3** | ⭐⭐⭐⭐⭐ | Semantic markup, animations, flexbox |
-
-### 🔧 Backend & Databases
-
-<details>
-<summary><b>Click to expand</b></summary>
-
-| Category | Tools |
-|----------|-------|
-| **Backend** | Node.js, Express.js, FastAPI (Python) |
-| **Databases** | PostgreSQL, MySQL, MongoDB |
-| **APIs** | REST APIs, Gemini API Integration |
-| **Version Control** | Git, GitHub |
-| **Tools** | VS Code, Postman, npm/yarn |
-
-</details>
-
 ### 💻 Languages
 
-<div align="center">
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+### 🌐 Web Development
 
-</div>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge\&logo=redux\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
 
----
+### 🗄️ Databases
 
-## 🚀 Featured Projects
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
-### 1️⃣ **LifeLink** ❤️
-*Emergency Blood & Organ Donation Platform*
+### ☁️ Tools & Technologies
 
-> Connecting donors with recipients in critical moments
-
-**What it does:**
-- Connects blood & organ donors with recipients efficiently
-- Real-time donor availability tracking
-- Emergency request matching system
-
-**Tech Stack:**
-```
-Frontend: HTML5 • CSS3 • JavaScript
-Backend: Node.js • Express.js
-Database: PostgreSQL
-Architecture: REST APIs
-```
-
-🔗 **[View Project](https://github.com/Apurva5492)**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 
 ---
 
-### 2️⃣ **SmartDukaan AI** 📊
-*AI-Powered Retail Management Platform*
+## 🧠 Areas of Interest
 
-> Intelligent inventory & sales analytics for small retailers
+* 🌐 Full-Stack Web Development
+* ⚛️ React & Modern Frontend Development
+* 🧩 State Management with Redux Toolkit
+* 🧠 Data Structures & Algorithms
+* 🤖 Artificial Intelligence & Machine Learning
+* 🔗 LLM & AI-powered Applications
+* ☁️ Cloud Computing & AWS
+* 🗄️ Databases & Backend Systems
 
-**What it does:**
-- AI-powered inventory management
-- Sales forecasting & analytics
-- Business insights & recommendations
-- Automated reporting
+---
 
-**Tech Stack:**
-```
-Frontend: React.js, Tailwind CSS
-Backend: Node.js • Express.js • FastAPI
-AI/ML: Python, Machine Learning models
-Database: PostgreSQL
+## 📈 What I'm Focused On
+
+```text
+Building  →  Problem Solving  →  Learning  →  Improving
 ```
 
-🔗 **[View Project](https://github.com/Apurva5492)**
+Currently strengthening my skills in **React, Redux Toolkit, JavaScript, backend development, DSA, and AI technologies.**
 
 ---
 
-### 3️⃣ **AI Resume Parser** 📄
-*Intelligent Resume Analysis Tool*
+## 🎯 2026 Goals
 
-> Automated resume parsing and candidate evaluation
-
-**Features:**
-- Extract key information from resumes
-- AI-powered skill & experience analysis
-- Structured data output
-
-**Tech Stack:** Node.js • Gemini API • JavaScript
-
----
-
-## 📚 Current Learning Journey
-
-```
-Phase 1: React & State Management ✅
-Phase 2: Advanced Tailwind Patterns 📍 (Current)
-Phase 3: Full-Stack Optimization
-Phase 4: Cloud Deployment & DevOps
-```
-
-🌱 Exploring:
-- Advanced React patterns & optimization
-- Web performance best practices
-- System design principles
-- Cloud technologies (AWS/GCP)
+* 🚀 Become a strong full-stack developer
+* 🧩 Improve DSA & competitive problem solving
+* ⚛️ Build advanced React applications
+* 🔧 Develop stronger backend skills
+* 🤖 Explore AI/LLM-based applications
+* ☁️ Gain practical cloud & AWS experience
+* 🌱 Contribute to open-source projects
+* 💼 Prepare for software engineering internships & placements
 
 ---
 
-## 🎯 What I'm Looking For
+## 📊 GitHub Stats
 
-I'm actively seeking opportunities to:
-
-✅ Build scalable, user-centric web applications  
-✅ Contribute to meaningful open-source projects  
-✅ Learn from experienced developers & mentors  
-✅ Work on full-stack projects with modern tech stacks  
-✅ Solve real-world problems through code  
-
-**Ideal Role:** SDE / Full-Stack Developer Internship
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Apurva5492&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apurva5492&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
 ---
 
-## 📊 GitHub Insights
+## ⚡ Developer Mindset
 
-<div align="center">
+```javascript
+const mindset = {
+    learn: true,
+    build: true,
+    solve: true,
+    debug: true,
+    improve: true
+};
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Apurva5492&show_icons=true&theme=github_dark&bg_color=0D1117&text_color=C9D1D9&hide_border=true&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Apurva5492&layout=compact&theme=github_dark&bg_color=0D1117&text_color=C9D1D9&hide_border=true)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Apurva5492&theme=dark&background=0D1117&border=C9D1D9)
-
-</div>
-
----
-
-## 💡 Development Philosophy
-
-<div align="center">
-
-```
-Clean Code  →  User Experience  →  Scalability
-    ↓              ↓                  ↓
-  DRY         Accessibility      Maintainability
-Principles     & Performance      & Growth
+while (true) {
+    learn();
+    build();
+    solve();
+    debug();
+    improve();
+}
 ```
 
-</div>
+---
 
-**My approach:**
-- 🎯 **Goal-Oriented**: Every line of code serves a purpose
-- 🧹 **Clean & Readable**: Code for humans first, machines second
-- 🚀 **Performance-First**: Optimize where it matters
-- 🔄 **Collaborative**: Learning from and with the community
-- 🛠️ **Always Improving**: Refactoring & enhancing continuously
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Apurva5492">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 🏆 Achievements
-
-- 🎓 Strong academic performance (CGPA: 8.53)
-- 🚀 Shipped multiple full-stack projects from ideation to deployment
-- 💪 Proficient in modern frontend framework patterns
-- 🤝 Active contributor to learning & development
-- 📈 Consistent growth in problem-solving & development skills
-
----
-
-## 📬 Let's Connect!
-
-I'd love to collaborate on interesting projects, discuss web development, or just chat about tech!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apurva-pandya-23aa3233b)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Apurva5492)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:apurvapandya@example.com)
-
-</div>
-
----
-
-## 🤝 Open Source & Community
-
-I believe in the power of open source and community learning. Always open to:
-- 🤓 Code reviews & constructive feedback
-- 🛠️ Contributing to open-source projects
-- 📚 Sharing knowledge & learning from others
-- 🔗 Collaboration opportunities
-
----
-
-<div align="center">
-
-### ⭐ If you find my work interesting, consider giving it a star! ⭐
-
-```
-"The best way to predict the future is to build it."
-```
-
-Thanks for visiting! 👋 | Last Updated: 2026
-
-</div>
+### 🚀 "Build. Break. Debug. Repeat."
