@@ -1,143 +1,245 @@
-<h1 align="center">Hi 👋, I'm Apurva Pandya</h1>
-<h3 align="center">Computer Science Engineering Student | Full-Stack Developer | AI & IoT Enthusiast</h3>
+# 💙 Apurva Pandya
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Full+Stack+Developer;AI+%26+IoT+Enthusiast;Always+Learning+Something+New" />
-</p>
+<div align="center">
+
+**Full-Stack Developer** | **React Enthusiast** | **Problem Solver**
+
+```
+Building scalable web applications that make a real-world impact
+```
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apurva-pandya-23aa3233b?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Apurva5492)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:apurvapandya@example.com)
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 🎓 About Me
 
-🎓 B.Tech Computer Science Engineering (E-Commerce Technology)
+I'm a **B.Tech Computer Science Engineering** student at **VIT Bhopal University** (2024–2028) passionate about crafting elegant, user-friendly web applications. I love turning ideas into reality through clean code, modern frameworks, and thoughtful design.
 
-💻 Passionate about building real-world applications that solve practical problems.
-
-🌱 Currently learning:
-- React.js
-- Node.js
-- AI & Machine Learning
-- FastAPI
-- Cloud Computing
-
-🎯 Interested in:
-- Artificial Intelligence
-- Full Stack Development
-- IoT Solutions
-- Computer Vision
-- Open Source
+- 📍 Based in Mumbai, India  
+- 🎯 Pursuing SDE & Full-Stack Internship Opportunities  
+- 📊 Current CGPA: **8.53**  
+- 🚀 Currently mastering **React.js & Advanced State Management**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 🎨 Frontend Mastery
+```
+React.js  →  Redux Toolkit  →  Tailwind CSS  →  Modern UX
+```
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+| Technology | Proficiency | Experience |
+|-----------|-----------|-----------|
+| **React.js** | ⭐⭐⭐⭐⭐ | Component architecture, hooks, lifecycle |
+| **Redux Toolkit** | ⭐⭐⭐⭐⭐ | State management, async thunks, slices |
+| **Tailwind CSS** | ⭐⭐⭐⭐⭐ | Utility-first design, responsive layouts |
+| **JavaScript (ES6+)** | ⭐⭐⭐⭐⭐ | Modern syntax, async/await, promises |
+| **HTML5 & CSS3** | ⭐⭐⭐⭐⭐ | Semantic markup, animations, flexbox |
 
-### Frontend
+### 🔧 Backend & Databases
 
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<details>
+<summary><b>Click to expand</b></summary>
 
-### Backend
+| Category | Tools |
+|----------|-------|
+| **Backend** | Node.js, Express.js, FastAPI (Python) |
+| **Databases** | PostgreSQL, MySQL, MongoDB |
+| **APIs** | REST APIs, Gemini API Integration |
+| **Version Control** | Git, GitHub |
+| **Tools** | VS Code, Postman, npm/yarn |
 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+</details>
 
-### Database
+### 💻 Languages
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+<div align="center">
 
-### Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
-
-# 📌 Featured Projects
-
----
-
-## ❤️ LifeLink
-Blood & Organ Donation Platform connecting donors with recipients.
-
-**Tech:** HTML • CSS • JavaScript • Node.js • PostgreSQL
-
----
-
-## 📄 AI Resume Parser
-Automatically extracts and analyzes resumes using AI.
-
-**Tech:** Node.js • Gemini API • JavaScript
+</div>
 
 ---
 
-# 📊 GitHub Stats
+## 🚀 Featured Projects
 
-<p align="center">
+### 1️⃣ **LifeLink** ❤️
+*Emergency Blood & Organ Donation Platform*
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Apurva5492&show_icons=true&theme=tokyonight"/>
+> Connecting donors with recipients in critical moments
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apurva5492&layout=compact&theme=tokyonight"/>
+**What it does:**
+- Connects blood & organ donors with recipients efficiently
+- Real-time donor availability tracking
+- Emergency request matching system
 
-</p>
+**Tech Stack:**
+```
+Frontend: HTML5 • CSS3 • JavaScript
+Backend: Node.js • Express.js
+Database: PostgreSQL
+Architecture: REST APIs
+```
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Apurva5492&theme=tokyonight"/>
-</p>
-
----
-
-# 🏆 GitHub Trophy
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Apurva5492&theme=tokyonight&row=1&column=6"/>
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Apurva5492&theme=tokyo-night"/>
-</p>
+🔗 **[View Project](https://github.com/Apurva5492)**
 
 ---
 
-## 🌟 Quote
+### 2️⃣ **SmartDukaan AI** 📊
+*AI-Powered Retail Management Platform*
 
-> *"The best way to predict the future is to build it."*
+> Intelligent inventory & sales analytics for small retailers
+
+**What it does:**
+- AI-powered inventory management
+- Sales forecasting & analytics
+- Business insights & recommendations
+- Automated reporting
+
+**Tech Stack:**
+```
+Frontend: React.js, Tailwind CSS
+Backend: Node.js • Express.js • FastAPI
+AI/ML: Python, Machine Learning models
+Database: PostgreSQL
+```
+
+🔗 **[View Project](https://github.com/Apurva5492)**
 
 ---
 
-## 📫 Connect With Me
+### 3️⃣ **AI Resume Parser** 📄
+*Intelligent Resume Analysis Tool*
 
-<p align="left">
+> Automated resume parsing and candidate evaluation
 
-<a href="https://github.com/Apurva5492">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-</a>
+**Features:**
+- Extract key information from resumes
+- AI-powered skill & experience analysis
+- Structured data output
 
-<a href="https://www.linkedin.com/in/apurva-pandya-23aa3233b?utm_source=share_via&utm_content=profile&utm_medium=member_ios">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
-</a>
-
-</p>
+**Tech Stack:** Node.js • Gemini API • JavaScript
 
 ---
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Apurva5492&label=Profile+Views&color=blue&style=flat"/>
-</p>
+## 📚 Current Learning Journey
 
-<p align="center">
-⭐ Thanks for visiting my profile! ⭐
-</p>
+```
+Phase 1: React & State Management ✅
+Phase 2: Advanced Tailwind Patterns 📍 (Current)
+Phase 3: Full-Stack Optimization
+Phase 4: Cloud Deployment & DevOps
+```
+
+🌱 Exploring:
+- Advanced React patterns & optimization
+- Web performance best practices
+- System design principles
+- Cloud technologies (AWS/GCP)
+
+---
+
+## 🎯 What I'm Looking For
+
+I'm actively seeking opportunities to:
+
+✅ Build scalable, user-centric web applications  
+✅ Contribute to meaningful open-source projects  
+✅ Learn from experienced developers & mentors  
+✅ Work on full-stack projects with modern tech stacks  
+✅ Solve real-world problems through code  
+
+**Ideal Role:** SDE / Full-Stack Developer Internship
+
+---
+
+## 📊 GitHub Insights
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Apurva5492&show_icons=true&theme=github_dark&bg_color=0D1117&text_color=C9D1D9&hide_border=true&rank_icon=github)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Apurva5492&layout=compact&theme=github_dark&bg_color=0D1117&text_color=C9D1D9&hide_border=true)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Apurva5492&theme=dark&background=0D1117&border=C9D1D9)
+
+</div>
+
+---
+
+## 💡 Development Philosophy
+
+<div align="center">
+
+```
+Clean Code  →  User Experience  →  Scalability
+    ↓              ↓                  ↓
+  DRY         Accessibility      Maintainability
+Principles     & Performance      & Growth
+```
+
+</div>
+
+**My approach:**
+- 🎯 **Goal-Oriented**: Every line of code serves a purpose
+- 🧹 **Clean & Readable**: Code for humans first, machines second
+- 🚀 **Performance-First**: Optimize where it matters
+- 🔄 **Collaborative**: Learning from and with the community
+- 🛠️ **Always Improving**: Refactoring & enhancing continuously
+
+---
+
+## 🏆 Achievements
+
+- 🎓 Strong academic performance (CGPA: 8.53)
+- 🚀 Shipped multiple full-stack projects from ideation to deployment
+- 💪 Proficient in modern frontend framework patterns
+- 🤝 Active contributor to learning & development
+- 📈 Consistent growth in problem-solving & development skills
+
+---
+
+## 📬 Let's Connect!
+
+I'd love to collaborate on interesting projects, discuss web development, or just chat about tech!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apurva-pandya-23aa3233b)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Apurva5492)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:apurvapandya@example.com)
+
+</div>
+
+---
+
+## 🤝 Open Source & Community
+
+I believe in the power of open source and community learning. Always open to:
+- 🤓 Code reviews & constructive feedback
+- 🛠️ Contributing to open-source projects
+- 📚 Sharing knowledge & learning from others
+- 🔗 Collaboration opportunities
+
+---
+
+<div align="center">
+
+### ⭐ If you find my work interesting, consider giving it a star! ⭐
+
+```
+"The best way to predict the future is to build it."
+```
+
+Thanks for visiting! 👋 | Last Updated: 2026
+
+</div>
